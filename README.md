@@ -241,10 +241,10 @@ Kami sangat welcome kontribusi dari community! Berikut cara Anda bisa berkontrib
 ## 📞 Support & Community
 
 ### **Get Help:**
-- 📧 **Email**: [your-email@domain.com]
-- 💬 **Discussions**: Gunakan GitHub Discussions untuk Q&A
-- 🐛 **Issues**: Report bugs via GitHub Issues
-- 📱 **Social Media**: Follow updates di [your-social-media]
+- 📧 **Email**: anton.prafanto@gmail.com
+- 💬 **Discussions**: LINK WA (menyusul)
+- 🐛 **Issues**: 0811553393
+- 📱 **Social Media**: Follow updates di LINK WA (Menyusul)
 
 ### **Community Guidelines:**
 - Respectful dan constructive communication
