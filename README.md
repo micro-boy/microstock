@@ -32,15 +32,6 @@ Repository ini berisi **500+ AI prompts** yang telah dioptimasi untuk menghasilk
 - **🚀 Ready-to-Use**: Langsung dapat digunakan dengan AI image generators
 - **🚫 Non-Living Content**: Semua prompts dirancang khusus untuk menghasilkan gambar tanpa makhluk hidup
 
-### **🎯 Content Focus:**
-Repository ini 100% fokus pada:
-- ✅ **Abstract Art & Patterns**
-- ✅ **Textures & Backgrounds** 
-- ✅ **Geometric Designs**
-- ✅ **Landscape Elements** (tanpa fauna)
-- ✅ **Objects & Materials**
-- ✅ **Technology & Futuristic Elements**
-
 ---
 
 ## 🔬 Metodologi Riset
@@ -65,59 +56,44 @@ Prompts dalam repository ini dikembangkan melalui analisis komprehensif:
 
 ## 📁 Struktur Prompts
 
-## 📁 Struktur Prompts & File Organization
+## 📁 Struktur File Repository
 
-Repository ini organized dalam **10 kategori strategis** berdasarkan trending themes:
-
-### 📂 **File Structure:**
+### 📂 **File Organization:**
 ```
 📁 ai-stock-prompts/
 ├── 📄 README.md (dokumen ini)
 ├── 📄 prompt_25_05_2025.md (500 prompts lengkap)
-├── 📁 categories/
-│   ├── 📄 grainy-gradients.md (Prompts 1-50)
-│   ├── 📄 retro-futurism.md (Prompts 51-100)
-│   ├── 📄 organic-shapes.md (Prompts 101-150)
-│   └── ... (kategori lainnya)
-├── 📁 updates/
-│   ├── 📄 weekly-update-[date].md
-│   └── 📄 trend-analysis-[date].md
+├── 📄 prompt_[future_dates].md (update mingguan)
+├── 📁 archive/
+│   └── 📄 older-prompt-files.md
 └── 📄 LICENSE
 ```
 
 ### 📄 **File Locations:**
-- **Main Prompts**: Semua 500 prompts tersedia dalam file `prompt_25_05_2025.md`
-- **Categorized Files**: Prompts dipecah per kategori dalam folder `categories/`
-- **Weekly Updates**: Update mingguan dalam folder `updates/`
-- **Documentation**: README dan guidelines dalam format Markdown (.md)
-
-### 🎨 **Category Overview:**
-
-| Kategori | File Location | Jumlah Prompts | Trend Growth | Competition Level |
-|----------|---------------|----------------|--------------|-------------------|
-| **Grainy Gradient Abstracts** | `categories/grainy-gradients.md` | 50 | 🔥 85% | 🟢 Low |
-| **Retro Futurism Elements** | `categories/retro-futurism.md` | 50 | 🔥 92% | 🟡 Medium |
-| **Organic Abstract Shapes** | `categories/organic-shapes.md` | 50 | 🔥 76% | 🟢 Low |
-| **Immersive Surreal Landscapes** | `categories/surreal-landscapes.md` | 50 | 🔥 83% | 🟢 Low |
-| **Sustainable Nature Textures** | `categories/sustainable-textures.md` | 50 | 🔥 69% | 🟢 Very Low |
-| **Minimalist Maximalism** | `categories/minimalist-maximalism.md` | 50 | 🔥 71% | 🟡 Medium |
-| **Time Warp Vintage-Futuristic** | `categories/time-warp.md` | 50 | 🔥 79% | 🟢 Low |
-| **Dynamic Gradient Motion** | `categories/dynamic-gradients.md` | 50 | 🔥 81% | 🟡 Medium |
-| **Y2K Nostalgia Revival** | `categories/y2k-nostalgia.md` | 50 | 🔥 88% | 🟢 Low |
-| **Calming Rhythmic Patterns** | `categories/calming-patterns.md` | 50 | 🔥 74% | 🟢 Very Low |
+- **Main Prompts**: Lihat file `prompt_25_05_2025.md` dan file prompt terbaru di bagian atas repository
+- **Weekly Updates**: File prompt baru akan muncul dengan format `prompt_[DD_MM_YYYY].md`
+- **Archive**: Prompt lama tersimpan dalam folder `archive/` untuk reference
 
 ### 🎯 **Priority Tiers:**
-- **🥇 Tier 1**: Immediate high-potential (Prompts 1-150)
-- **🥈 Tier 2**: Medium-term growth (Prompts 151-350)  
-- **🥉 Tier 3**: Long-term investment (Prompts 351-500)
+- **🥇 Tier 1**: Immediate high-potential (biasanya prompts 1-150 di setiap file)
+- **🥈 Tier 2**: Medium-term growth (prompts 151-350)  
+- **🥉 Tier 3**: Long-term investment (prompts 351-500)
 
 ---
 
 ## 🚀 Cara Penggunaan
 
+### **📂 Akses Prompts:**
+
+**Langkah 1**: Lihat file prompts di bagian atas repository (setelah README.md ini)
+- Klik file `prompt_25_05_2025.md` untuk melihat semua 500 prompts
+- Atau browse file prompts lainnya berdasarkan tanggal update
+
+**Langkah 2**: Pilih kategori atau prompt yang diinginkan dari file tersebut
+
 ### **For AI Image Generation:**
 
-1. **Navigate to Prompts**: Buka file `prompt_25_05_2025.md` atau file kategori spesifik di folder `categories/`
+1. **Navigate to Prompts**: Buka file `prompt_25_05_2025.md` atau file prompt terbaru di repository
 2. **Copy Prompt**: Pilih prompt dari kategori yang diinginkan
 3. **Content Verification**: **PASTIKAN** prompt tidak menghasilkan makhluk hidup/manusia
 4. **Add Technical Specs**: Tambahkan spesifikasi teknis sesuai kebutuhan:
@@ -271,10 +247,10 @@ Kami sangat welcome kontribusi dari community! Berikut cara Anda bisa berkontrib
 ## 📞 Support & Community
 
 ### **Get Help:**
-- 📧 **Email**: [your-email@domain.com]
-- 💬 **Discussions**: Gunakan GitHub Discussions untuk Q&A
-- 🐛 **Issues**: Report bugs via GitHub Issues
-- 📱 **Social Media**: Follow updates di [your-social-media]
+- 📧 **Email**: anton.prafanto@gmail.com
+- 💬 **Discussions**: WA Grup (Link Menyusul)
+- 🐛 **Issues**: 0811553393
+- 📱 **Social Media**: Follow updates di (Link Menyusul)
 
 ### **Community Guidelines:**
 - Respectful dan constructive communication
@@ -310,7 +286,7 @@ Special thanks to:
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/micro-boy/microstock)
 ![GitHub contributors](https://img.shields.io/github/contributors/micro-boy/microstock)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/micro-boy/microstock)
+![GitHub forks](https://img.shields.io/github/forks/micro-boy/microstock)
 
 ---
 
