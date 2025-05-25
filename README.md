@@ -1,4 +1,3 @@
-
 # 🎨 AI Stock Image Prompts Collection
 ### High-Volume, Low-Competition Keywords for Adobe Stock Success
 
@@ -66,22 +65,46 @@ Prompts dalam repository ini dikembangkan melalui analisis komprehensif:
 
 ## 📁 Struktur Prompts
 
+## 📁 Struktur Prompts & File Organization
+
 Repository ini organized dalam **10 kategori strategis** berdasarkan trending themes:
+
+### 📂 **File Structure:**
+```
+📁 ai-stock-prompts/
+├── 📄 README.md (dokumen ini)
+├── 📄 prompt_25_05_2025.md (500 prompts lengkap)
+├── 📁 categories/
+│   ├── 📄 grainy-gradients.md (Prompts 1-50)
+│   ├── 📄 retro-futurism.md (Prompts 51-100)
+│   ├── 📄 organic-shapes.md (Prompts 101-150)
+│   └── ... (kategori lainnya)
+├── 📁 updates/
+│   ├── 📄 weekly-update-[date].md
+│   └── 📄 trend-analysis-[date].md
+└── 📄 LICENSE
+```
+
+### 📄 **File Locations:**
+- **Main Prompts**: Semua 500 prompts tersedia dalam file `prompt_25_05_2025.md`
+- **Categorized Files**: Prompts dipecah per kategori dalam folder `categories/`
+- **Weekly Updates**: Update mingguan dalam folder `updates/`
+- **Documentation**: README dan guidelines dalam format Markdown (.md)
 
 ### 🎨 **Category Overview:**
 
-| Kategori | Jumlah Prompts | Trend Growth | Competition Level |
-|----------|----------------|--------------|-------------------|
-| **Grainy Gradient Abstracts** | 50 | 🔥 85% | 🟢 Low |
-| **Retro Futurism Elements** | 50 | 🔥 92% | 🟡 Medium |
-| **Organic Abstract Shapes** | 50 | 🔥 76% | 🟢 Low |
-| **Immersive Surreal Landscapes** | 50 | 🔥 83% | 🟢 Low |
-| **Sustainable Nature Textures** | 50 | 🔥 69% | 🟢 Very Low |
-| **Minimalist Maximalism** | 50 | 🔥 71% | 🟡 Medium |
-| **Time Warp Vintage-Futuristic** | 50 | 🔥 79% | 🟢 Low |
-| **Dynamic Gradient Motion** | 50 | 🔥 81% | 🟡 Medium |
-| **Y2K Nostalgia Revival** | 50 | 🔥 88% | 🟢 Low |
-| **Calming Rhythmic Patterns** | 50 | 🔥 74% | 🟢 Very Low |
+| Kategori | File Location | Jumlah Prompts | Trend Growth | Competition Level |
+|----------|---------------|----------------|--------------|-------------------|
+| **Grainy Gradient Abstracts** | `categories/grainy-gradients.md` | 50 | 🔥 85% | 🟢 Low |
+| **Retro Futurism Elements** | `categories/retro-futurism.md` | 50 | 🔥 92% | 🟡 Medium |
+| **Organic Abstract Shapes** | `categories/organic-shapes.md` | 50 | 🔥 76% | 🟢 Low |
+| **Immersive Surreal Landscapes** | `categories/surreal-landscapes.md` | 50 | 🔥 83% | 🟢 Low |
+| **Sustainable Nature Textures** | `categories/sustainable-textures.md` | 50 | 🔥 69% | 🟢 Very Low |
+| **Minimalist Maximalism** | `categories/minimalist-maximalism.md` | 50 | 🔥 71% | 🟡 Medium |
+| **Time Warp Vintage-Futuristic** | `categories/time-warp.md` | 50 | 🔥 79% | 🟢 Low |
+| **Dynamic Gradient Motion** | `categories/dynamic-gradients.md` | 50 | 🔥 81% | 🟡 Medium |
+| **Y2K Nostalgia Revival** | `categories/y2k-nostalgia.md` | 50 | 🔥 88% | 🟢 Low |
+| **Calming Rhythmic Patterns** | `categories/calming-patterns.md` | 50 | 🔥 74% | 🟢 Very Low |
 
 ### 🎯 **Priority Tiers:**
 - **🥇 Tier 1**: Immediate high-potential (Prompts 1-150)
@@ -94,21 +117,22 @@ Repository ini organized dalam **10 kategori strategis** berdasarkan trending th
 
 ### **For AI Image Generation:**
 
-1. **Copy Prompt**: Pilih prompt dari kategori yang diinginkan
-2. **Content Verification**: **PASTIKAN** prompt tidak menghasilkan makhluk hidup/manusia
-3. **Add Technical Specs**: Tambahkan spesifikasi teknis sesuai kebutuhan:
+1. **Navigate to Prompts**: Buka file `prompt_25_05_2025.md` atau file kategori spesifik di folder `categories/`
+2. **Copy Prompt**: Pilih prompt dari kategori yang diinginkan
+3. **Content Verification**: **PASTIKAN** prompt tidak menghasilkan makhluk hidup/manusia
+4. **Add Technical Specs**: Tambahkan spesifikasi teknis sesuai kebutuhan:
    ```
    [Your chosen prompt], photorealistic, 4K resolution, high quality, 
    professional photography, commercial use, trending 2025, no people, 
    no animals, no living beings
    ```
-4. **Generate Images**: Gunakan dengan platform favorit Anda:
+5. **Generate Images**: Gunakan dengan platform favorit Anda:
    - Midjourney
    - DALL-E 3
    - Stable Diffusion
    - Adobe Firefly
    - Leonardo AI
-5. **Quality Control**: Review hasil untuk memastikan tidak ada makhluk hidup
+6. **Quality Control**: Review hasil untuk memastikan tidak ada makhluk hidup
 
 ### **🚫 MANDATORY NEGATIVE PROMPTS:**
 Selalu tambahkan negative prompts berikut untuk memastikan compliance:
@@ -145,11 +169,17 @@ no body parts, no characters, no living beings, no creatures
 - 📈 **Performance Reports**: Success stories dan earning insights
 - 🆕 **Platform Updates**: New AI tools dan stock platform changes
 
-### **Release Schedule:**
+### **📅 Release Schedule:**
 - **Senin**: Market analysis dan trend research
-- **Rabu**: New prompts development dan testing  
-- **Jumat**: Quality review dan repository update
-- **Minggu**: Community feedback integration
+- **Rabu**: New prompts development dan testing dalam file .md baru
+- **Jumat**: Quality review dan repository update dengan file markdown terbaru
+- **Minggu**: Community feedback integration dan file organization
+
+### **📂 Update File Naming:**
+- **Weekly Prompts**: `prompt_[DD_MM_YYYY].md` (contoh: `prompt_01_06_2025.md`)
+- **Trend Analysis**: `trend-analysis-[DD-MM-YYYY].md`
+- **Category Updates**: File kategori akan diupdate sesuai dengan new findings
+- **Archive**: Old prompts tetap tersedia untuk reference dan comparison
 
 ---
 
@@ -161,14 +191,14 @@ Kami sangat welcome kontribusi dari community! Berikut cara Anda bisa berkontrib
 
 1. **📝 Submit New Prompts**
    - Fork repository ini
-   - Tambahkan prompts dengan format yang konsisten
-   - Include market research justification
-   - Submit pull request dengan detailed description
+   - Tambahkan prompts dalam format Markdown (.md) yang konsisten
+   - Include market research justification dalam file .md
+   - Submit pull request dengan detailed description dan file .md attachment
 
 2. **🐛 Report Issues**
-   - Laporkan broken prompts atau inaccuracies
-   - Suggest improvements untuk existing content
-   - Report outdated trend information
+   - Laporkan broken prompts atau inaccuracies dalam file .md
+   - Suggest improvements untuk existing markdown content
+   - Report outdated trend information dalam dokumentasi .md
 
 3. **💡 Share Insights**
    - Success stories menggunakan prompts ini
@@ -241,10 +271,10 @@ Kami sangat welcome kontribusi dari community! Berikut cara Anda bisa berkontrib
 ## 📞 Support & Community
 
 ### **Get Help:**
-- 📧 **Email**: anton.prafanto@gmail.com
-- 💬 **Discussions**: LINK WA (menyusul)
-- 🐛 **Issues**: 0811553393
-- 📱 **Social Media**: Follow updates di LINK WA (Menyusul)
+- 📧 **Email**: [your-email@domain.com]
+- 💬 **Discussions**: Gunakan GitHub Discussions untuk Q&A
+- 🐛 **Issues**: Report bugs via GitHub Issues
+- 📱 **Social Media**: Follow updates di [your-social-media]
 
 ### **Community Guidelines:**
 - Respectful dan constructive communication
@@ -280,7 +310,7 @@ Special thanks to:
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/micro-boy/microstock)
 ![GitHub contributors](https://img.shields.io/github/contributors/micro-boy/microstock)
-![GitHub forks](https://img.shields.io/github/forks/micro-boy/microstock)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/micro-boy/microstock)
 
 ---
 
