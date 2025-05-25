@@ -2,10 +2,10 @@
 # 🎨 AI Stock Image Prompts Collection
 ### High-Volume, Low-Competition Keywords for Adobe Stock Success
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/ai-stock-prompts)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/ai-stock-prompts)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-stock-prompts)
-![License](https://img.shields.io/github/license/yourusername/ai-stock-prompts)
+![GitHub last commit](https://img.shields.io/github/last-commit/micro-boy/microstock)
+![GitHub issues](https://img.shields.io/github/issues/micro-boy/microstock)
+![GitHub stars](https://img.shields.io/github/stars/micro-boy/microstock)
+![License](https://img.shields.io/github/license/micro-boy/microstock)
 
 ---
 
@@ -278,9 +278,9 @@ Special thanks to:
 
 ## 📈 Repository Stats
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/yourusername/ai-stock-prompts)
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/ai-stock-prompts)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/ai-stock-prompts)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/micro-boy/microstock)
+![GitHub contributors](https://img.shields.io/github/contributors/micro-boy/microstock)
+![GitHub forks](https://img.shields.io/github/forks/micro-boy/microstock)
 
 ---
 
